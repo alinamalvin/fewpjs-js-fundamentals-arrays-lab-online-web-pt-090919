@@ -8,4 +8,4 @@ const removeLast=["Milo", "Otis", "Garfield"]
 removeLast.pop()
 
 const removeFirst=["Milo", "Otis", "Garfield"]
-removeFirstd.shift()
+removeFirst.shift()
